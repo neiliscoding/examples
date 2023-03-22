@@ -5,9 +5,6 @@
   "private": true,
   "repository": "twbs/examples",
   "license": "MIT",
-  "stackblitz": {
-    "startCommand": "npm start"
-  },
   "scripts": {
     "build": "npm run css",
     "css-compile": "sass --style compressed --source-map --embed-sources --no-error-css --load-path=../../node_modules scss/:css/",

@@ -4,7 +4,7 @@ Include [Bootstrap](https://getbootstrap.com)'s source Sass and compiled JavaScr
 
 ## Edit in browser
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/packages/sass-js?file=index.html)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main?file=packages%2Fsass-js%2Findex.html)
 
 ## How to use
 

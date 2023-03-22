@@ -4,7 +4,7 @@ Include [Bootstrap](https://getbootstrap.com)'s source Sass and individual JavaS
 
 ## Edit in browser
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/packages/vite?file=src%2Findex.html)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main?file=packages%2Fvite%2Fsrc%2Findex.html)
 
 ## How to use
 
